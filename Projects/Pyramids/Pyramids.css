@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+ }
+
+html,body {
+    height: 100%;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: #FFCC00;
+}
+
+#pyramid-canvas {
+    height: 100%;
+    width: 100%;
+    margin: 0 0 0 0;
+    padding: 0;
+    border-style: dotted;
+    border-color: blue;
+}
